@@ -1,5 +1,7 @@
 # Exoplanet Hunting Using Machine Learning and NASA Database
 
+## *The project is not finished yet!*
+
 ### What is the Exoplanets?
 
 Exoplanets are planets beyond our own solar system. Thousands have been discovered in the past two decades, mostly with NASA's Kepler Space Telescope.
