@@ -1,6 +1,6 @@
 # Exoplanet Hunting Using Machine Learning and NASA Database
 
-## *The project is not finished yet!*
+## *Work in progress*
 
 ### What is the Exoplanets?
 
