@@ -1,4 +1,4 @@
-# Exoplanet Project
+# Exoplanet Hunting Using Machine Learning and NASA Database
 
 ### What is the Exoplanets?
 
